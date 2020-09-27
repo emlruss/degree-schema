@@ -1,0 +1,45 @@
+<script type="application/ld+json">
+  {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "mainEntityOfPage":{
+      "@type":"WebPage",
+      "@id":"www.degree.com//blog/blog-posting"
+      },
+      "headline": "This is a Heading",
+      "image": {
+      "@type": "ImageObject",
+      "url": "https://degree.com/image"
+      },
+      "datePublished": "01-09-2020",
+      "dateModified": "2020-08-26 03:41:27 +0000",
+      "author": {
+      "@type": "Person",
+      "name": "Rosella"
+      },
+      "publisher": {
+      "@type": "Organization",
+      "name": "Degree",
+      "logo":{
+        "@type": "ImageObject",
+        "url": "https://degree.com/logo"
+        }
+      },
+      "description": "This is where your description goes. To be automated it can be the meta description",
+      "articleBody": "This is the entirety of the article body",
+      "wordCount": "2691",
+      "accessMode": "Textual",
+      "inLanguage": "English",
+      "isFamilyFriendly": true,
+      "Keywords":"blog, blog keyword",
+      "timeRequired": "PT3M",
+      "sourceOrganization":{
+        "name": "Degree",
+        "url": "www.degree.com"
+      },
+      "about":{
+        "name": "Name of the blog"
+      }
+   }
+</script>
+  
