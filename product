@@ -1,0 +1,51 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "description": "Sentence about the Advanced active deodorant.",
+  "name": "Advacned Deodorant",
+  "image": "https://www.degree.com/image",
+  "sku": "skunumber",
+  "gtin8": "gtinnumber",
+  "brand": "Degree",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.degree.com/product-url",
+    "price": "55.00",
+    "priceCurrency": "USD"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "11"
+    },
+    "review": [
+    {
+      "@type": "Review",
+      "author": "Ellie",
+      "datePublished": "2011-04-01",
+      "reviewBody": "This is a review from a happy customer.",
+      "name": "Not a happy camper",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": "Lucas",
+      "datePublished": "2011-03-25",
+      "reviewBody": "This is another review from a happy customer.",
+      "name": "Value purchase",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "1"
+      }
+    }
+  ]
+  }
+  </script>
