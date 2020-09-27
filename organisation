@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Degree Deodorant",
+  "legalName": "Degree",
+  "leiCode": "01234345",
+  "url": "https://www.degreedeodorant.com/us/en/home.html",
+  "logo": "https://asset-americas.unileversolutions.com/content/dam/unilever/rexona/global/icon/deodorants_and_fragrances/deodorants/degree_blue_1_-926027.png",
+  "sameAs": [
+  "https://www.facebook.com/Degree/",
+  "https://www.youtube.com/Degree"
+  ],
+	"address":{
+	  "@type":"PostalAddress",
+	  "streetAddress":"Degree House, Shire Park, Kestrel Way",
+	  "addressLocality":"Brooklyn",
+	  "addressRegion":"New York",
+	  "addressCountry":"USA",
+	  "postalCode":"AL7 1GA"},
+	  "telephone":"+44 (0) 800 123456",
+	  "contactPoint":[
+	    {
+	    "@type":"contactPoint",
+	    "telephone":"+44 (0) 330 1234567",
+	    "contactType":"Degree Customer Service"
+	    },
+	    {
+    	"@type":"contactPoint",
+    	"telephone":"+44 (0) 330 1234678",
+    	"contactType":"Degree Deodorant Customer Service"
+	    }
+  	  ]
+	 },
+"diversityPolicy": "https://www.degree.com/diversity",
+"ethicsPolicy": "https://www.degree.com/ethics"
+}
+</script>
