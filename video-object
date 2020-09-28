@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.degree.com/videoURL",
+    "name": "name of the video",
+    "uploadDate": "01-09-2020",
+    "description": "this is a description of the image, can be taken from the comntent or meta description", 
+    "keywords": "deodorant, working out",
+    "thumbnailUrl": "https://www.degree.com/thumbnail.jpg",
+    "transcript": "The full transcript of the video", 
+    "duration": "PT1M33S"
+  }
+ </script>
