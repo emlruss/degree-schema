@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "ImageObject",
+    "name": "name of the image",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://degree.com/image.jpg"
+    },
+    "datePublished": "01-09-2020",
+    "dateModified": "2020-08-26 03:41:27 +0000",
+    "description": "this is a description of the image, can be taken from the comntent or meta description", 
+    "keywords": "deodorant, working out"
+  }
+ </script>
