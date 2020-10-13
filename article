@@ -1,10 +1,10 @@
 <script type="application/ld+json">
   {
       "@context": "http://schema.org",
-      "@type": "BlogPosting",
+      "@type": "Article",
       "mainEntityOfPage":{
       "@type":"WebPage",
-      "@id":"www.degree.com//blog/blog-posting"
+      "@id":"www.degree.com/article/article-posting"
       },
       "headline": "This is a Heading",
       "image": {
